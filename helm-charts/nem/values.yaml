@@ -15,7 +15,7 @@
 
 # Aggregation chart of NEM charts
 
-cord-kafka:
+kafka:
   replicas: 1
   persistence:
     enabled: false
@@ -23,3 +23,10 @@ cord-kafka:
     servers: 1
     persistence:
       enabled: false
+
+rcord-lite:
+  volt:
+    kafkaService: "nem-kafka.default.svc.cluster.local"
+  onos-service:
+    kafkaService: "nem-kafka.default.svc.cluster.local"
+    onosFabricRestService: "seba-substrate-onos-fabric-ui.default.svc.cluster.local"
