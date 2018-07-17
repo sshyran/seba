@@ -1,5 +1,5 @@
 ---
-# Copyright 2017-present Open Networking Foundation
+# Copyright 2018-present Open Networking Foundation
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,13 +13,21 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Aggregation chart of NEM charts
+# Default values for the bng-in-fabric profile.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
 
-cord-kafka:
-  replicas: 1
-  persistence:
-    enabled: false
-  zookeeper:
-    servers: 1
-    persistence:
-      enabled: false
+replicaCount: 1
+
+nameOverride: ""
+fullnameOverride: ""
+
+imagePullPolicy: 'Always'
+
+tosca_loaderImage: "xosproject/tosca-loader:1.0.1"
+
+xos_api_testerImage: 'xosproject/xos-api-tester:2.0.1'
+
+xosAdminUser: "admin@opencord.org"
+xosAdminPassword: "letmein"
+
