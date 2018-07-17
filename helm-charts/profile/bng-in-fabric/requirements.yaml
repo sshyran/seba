@@ -1,5 +1,5 @@
 ---
-# Copyright 2017-present Open Networking Foundation
+# Copyright 2018-present Open Networking Foundation
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,12 +14,24 @@
 # limitations under the License.
 
 dependencies:
-
-- name: xos-core
+- name: rcord
+  version: 1.0.0
+  repository: https://charts.opencord.org/master/
+- name: onos-service
   version: 2.0.0
   repository: https://charts.opencord.org/master/
-
-- name: kafka
-  alias: kafka
-  version: 0.4.7
-  repository: https://kubernetes-charts-incubator.storage.googleapis.com/
+- name: fabric
+  version: 2.0.0
+  repository: https://charts.opencord.org/master/
+- name: volt
+  version: 2.0.0
+  repository: https://charts.opencord.org/master/
+- name: vsg-hw
+  version: 1.0.0
+  repository: https://charts.opencord.org/master/
+- name: vrouter
+  version: 2.0.0
+  repository: https://charts.opencord.org/master/
+- name: hippie-oss
+  version: 1.0.0
+  repository: https://charts.opencord.org/master/
