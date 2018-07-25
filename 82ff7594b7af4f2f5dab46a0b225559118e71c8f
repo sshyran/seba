@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8e843b5b_44bbb8aa",
+        "filename": "helm-charts/profile/bng-in-fabric/requirements.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2018-07-25T20:21:11Z",
+      "side": 1,
+      "message": "hippie-oss:1.0.1 is not released on master, it\u0027s released only on CORD-6.0",
+      "range": {
+        "startLine": 36,
+        "startChar": 2,
+        "endLine": 36,
+        "endChar": 16
+      },
+      "revId": "82ff7594b7af4f2f5dab46a0b225559118e71c8f",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
+    }
+  ]
+}
