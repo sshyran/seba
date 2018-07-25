@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "40030639_cc968f67",
+        "filename": "helm-charts/profile/nem-att/values.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2018-07-25T21:08:49Z",
+      "side": 1,
+      "message": "Not sure if I like the idea of using seba-substrate because it groups everything together so you can\u0027t tear things down individually",
+      "range": {
+        "startLine": 38,
+        "startChar": 26,
+        "endLine": 38,
+        "endChar": 40
+      },
+      "revId": "f046e13c347b51ff7cb4b8eebb7b58d0d0718737",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
+    }
+  ]
+}
