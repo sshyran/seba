@@ -68,6 +68,30 @@
       "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
       "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6e290346_b8882fa2",
+        "filename": "helm-charts/nem-monitoring/values.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2018-07-26T03:14:31Z",
+      "side": 1,
+      "message": "Code is here: https://bitbucket.org/teo_ne/prometheus-go-exporter/\nI think we should move it to CORD at a certain point but I didn\u0027t get the time yet",
+      "parentUuid": "7a199187_79904be7",
+      "range": {
+        "startLine": 16,
+        "startChar": 31,
+        "endLine": 16,
+        "endChar": 77
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": true
     }
   ]
 }
