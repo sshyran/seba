@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ff2b093_10994ee1",
+        "filename": "helm-charts/nem-monitoring/Chart.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T01:35:47Z",
+      "side": 1,
+      "message": "-dev ?",
+      "range": {
+        "startLine": 18,
+        "startChar": 9,
+        "endLine": 18,
+        "endChar": 14
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "655d5dad_dc4522ce",
+        "filename": "helm-charts/nem-monitoring/README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T01:35:47Z",
+      "side": 1,
+      "message": "Should this file be included in the patchset?",
+      "range": {
+        "startLine": 19,
+        "startChar": 47,
+        "endLine": 19,
+        "endChar": 87
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7a199187_79904be7",
+        "filename": "helm-charts/nem-monitoring/values.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T01:35:47Z",
+      "side": 1,
+      "message": "Where is the code to build this?",
+      "range": {
+        "startLine": 16,
+        "startChar": 31,
+        "endLine": 16,
+        "endChar": 77
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": true
+    }
+  ]
+}
