@@ -34,5 +34,5 @@ xosAdminPassword: "letmein"
 volt:
   kafkaService: "nem-core-kafka.default.svc.cluster.local"
 onos-service:
-  kafkaService: "nem-core-kafka.default.svc.cluster.local"
+  kafkaService: "nem-core-kafka.default.svc.cluster.local:9092"
   onosFabricRestService: "seba-substrate-onos-fabric-ui.default.svc.cluster.local"
