@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "975390b4_f30fbac6",
+        "filename": "helm-charts/nem-monitoring/Chart.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T03:36:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7ff2b093_10994ee1",
+      "range": {
+        "startLine": 18,
+        "startChar": 9,
+        "endLine": 18,
+        "endChar": 14
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "655d5dad_dc4522ce",
         "filename": "helm-charts/nem-monitoring/README.md",
         "patchSetId": 3
@@ -45,6 +69,30 @@
       "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
       "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e0f27449_c248085f",
+        "filename": "helm-charts/nem-monitoring/README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T03:36:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "655d5dad_dc4522ce",
+      "range": {
+        "startLine": 19,
+        "startChar": 47,
+        "endLine": 19,
+        "endChar": 87
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
     },
     {
       "key": {
@@ -92,6 +140,30 @@
       "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
       "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e20c6bfb_9f7b43a3",
+        "filename": "helm-charts/nem-monitoring/values.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2018-07-26T03:36:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6e290346_b8882fa2",
+      "range": {
+        "startLine": 16,
+        "startChar": 31,
+        "endLine": 16,
+        "endChar": 77
+      },
+      "revId": "dc02b7960f4d67c94681cc52cf1fec75ccf6c17a",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
     }
   ]
 }
