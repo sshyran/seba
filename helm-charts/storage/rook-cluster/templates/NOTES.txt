@@ -1,0 +1,8 @@
+This chart creates a Ceph cluster using Rook (similar to Rook's cluster.yaml)
+
+Ceph data is stored in this directory on all nodes: {{ .Values.cephDataDir }}
+
+The Ceph pool name is: {{ .Values.rookPoolName }}
+
+The k8s StorageClass created on the pool is: {{ .Values.storageClassName }}
+
