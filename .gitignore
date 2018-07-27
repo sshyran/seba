@@ -6,3 +6,4 @@ requirements.lock
 
 # ignore dependent chart dirs
 helm-charts/*/charts/
+helm-charts/*/*/charts/
