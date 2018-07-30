@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ccb6ae6d_f2656a1d",
+        "filename": "helm-charts/storage/README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2018-07-30T17:08:39Z",
+      "side": 1,
+      "message": "Perhaps also mention this? \n\nkubectl -n rook exec rook-tools -- ceph -s\n\nShows some useful ceph health information.",
+      "range": {
+        "startLine": 124,
+        "startChar": 0,
+        "endLine": 125,
+        "endChar": 30
+      },
+      "revId": "bc15ee39028375d1b138674d127e1a58bf88c766",
+      "serverId": "2a2bfe1b-c5c2-48ed-9ac8-16438ab24388",
+      "unresolved": false
+    }
+  ]
+}
