@@ -33,12 +33,12 @@ xosAdminPassword: "letmein"
 
 onosFabricRestService: "onos-fabric-ui.default.svc.cluster.local"
 onosVolthaRestService: "onos-voltha-ui.default.svc.cluster.local"
-kafkaService: "nem-core-kafka.default.svc.cluster.local:9092"
+kafkaService: "cord-kafka.default.svc.cluster.local:9092"
 
 volt:
-  kafkaService: "nem-core-kafka.default.svc.cluster.local"
+  kafkaService: "cord-kafka.default.svc.cluster.local"
 hippie-oss:
-  kafkaService: "nem-core-kafka.default.svc.cluster.local"
+  kafkaService: "cord-kafka.default.svc.cluster.local"
 
 # onos-voltha applications
 cordConfigAppUrl: "https://oss.sonatype.org/service/local/repositories/releases/content/org/opencord/cord-config/1.4.0/cord-config-1.4.0.oar"
